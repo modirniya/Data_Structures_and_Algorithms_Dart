@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Stack" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <option name="filePath" value="$PROJECT_DIR$/lib/linear/stack/main.dart" />
+    <option name="workingDirectory" value="$PROJECT_DIR$/lib/linear/stack" />
+    <method v="2" />
+  </configuration>
+</component>
