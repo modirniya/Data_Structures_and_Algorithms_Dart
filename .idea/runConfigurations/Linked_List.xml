@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Linked List" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <option name="filePath" value="$PROJECT_DIR$/lib/linear/linked_list/main.dart" />
+    <option name="workingDirectory" value="$PROJECT_DIR$/lib/linear/linked_list" />
+    <method v="2" />
+  </configuration>
+</component>
